@@ -1,0 +1,52 @@
+/* 
+    SMALL DEVICES - sm 
+*/
+@media screen and (min-width: 576px) {
+
+    /* 
+        COLUMNS 
+    */
+
+
+
+    /* 
+        MARGIN 
+    */
+
+
+}
+
+/* 
+    MEDIUM DEVICES - md
+*/
+@media screen and (min-width: 768px) {
+
+    /* 
+        COLUMNS 
+    */
+
+
+
+    /* 
+        MARGIN 
+    */
+
+
+}
+
+/* 
+    LARGE DEVICES - lg
+*/
+@media screen and (min-width: 992px) {
+
+    /* 
+        COLUMNS 
+    */
+
+
+    /* 
+        MARGIN 
+    */
+
+
+}
